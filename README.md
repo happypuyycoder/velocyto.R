@@ -5,9 +5,7 @@ RNA velocity estimation in R on Windows 10/11
 ## Installation
 The easiest way to install velocyto.R is using devtools::install_github() from R:
 ```
-install.packages('path/to/velocyto.R', repos = NULL, type = 'source')
-
-devtools::install_github("velocyto-team/velocyto.R")
+devtools::install_github("happypuyycoder/velocyto.R")
 ```
 
 
